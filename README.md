@@ -11,8 +11,8 @@ Votes are updated live for all participants.
 
 **Setup Instructions**
 <ol><li>Clone the repository
-  git clone https://github.com/yourusername/live-poll-battle.git
-  cd live-poll-battle
+  <li>git clone https://github.com/yourusername/live-poll-battle.git</li>
+  <li>cd live-poll-battle</li>
   </li><ol>
 **2. Start the backend (Node.js WebSocket server)**
   - cd server
