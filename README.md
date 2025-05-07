@@ -11,17 +11,17 @@ Votes are updated live for all participants.
 
 **Setup Instructions**
 <ol>
-  <li>Clone the repository</li><br>
+  <li>Clone the repository</li>
   git clone https://github.com/yourusername/live-poll-battle.git<br>
-  cd live-poll-battle<br>
-  <li>Start the backend (Node.js WebSocket server)</li><br>
+  cd live-poll-battle<br><br>
+  <li>Start the backend (Node.js WebSocket server)</li>
   cd server<br>
   npm install<br>
-  node server.js<br>
-<li>Start the frontend (React app)</li><br>
+  node server.js<br><br>
+<li>Start the frontend (React app)</li>
   cd client<br>
   npm install<br>
-  npm start<br>
+  npm start<br><br>
 </ol>
     
 **Architecture**
