@@ -10,9 +10,10 @@ Votes are updated live for all participants.
 - Live results display in a table format
 
 **Setup Instructions**
-**1. Clone the repository**
-- git clone https://github.com/yourusername/live-poll-battle.git
-- cd live-poll-battle
+<ol><li>Clone the repository
+  git clone https://github.com/yourusername/live-poll-battle.git
+  cd live-poll-battle
+  </li><ol>
 **2. Start the backend (Node.js WebSocket server)**
   - cd server
   - npm install
