@@ -10,17 +10,19 @@ Votes are updated live for all participants.
 - Live results display in a table format
 
 **Setup Instructions**
-<ol><li>Clone the repository</li><br>
+<ol>
+  <li>Clone the repository</li><br>
   git clone https://github.com/yourusername/live-poll-battle.git<br>
-  cd live-poll-battle<br></ol>ol>
-**2. Start the backend (Node.js WebSocket server)**
-  - cd server
-  - npm install
-  - node server.js
-**3. Start the frontend (React app)**
-  - cd client
-  - npm install
-  - npm start
+  cd live-poll-battle<br>
+  <li>Start the backend (Node.js WebSocket server)</li><br>
+  cd server<br>
+  npm install<br>
+  node server.js<br>
+<li>Start the frontend (React app)</li><br>
+  cd client<br>
+  npm install<br>
+  npm start<br>
+</ol>
     
 **Architecture**
 <ul><li>Each room is uniquely identified by a randomly generated room code.</li>
