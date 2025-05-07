@@ -17,7 +17,7 @@ Votes are updated live for all participants.
   - cd server
   - npm install
   - node server.js
-**2. Start the frontend (React app)**
+**3. Start the frontend (React app)**
   - cd client
   - npm install
   - npm start
