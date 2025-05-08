@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import styles from './App.module.css';
 
-const SOCKET_URL = "ws://localhost:4000";
+const SOCKET_URL = "wss://live-poll-battle-ln01.onrender.com";
 
 function App() {
   const [name, setName] = useState("");
